@@ -5,7 +5,10 @@ This repo will contain the notebooks developed while working on the TFM "Model e
 
 Data comes from the opensource [FHWA (Federal Highway Administration) database](https://www.fhwa.dot.gov/bridge/nbi/ascii.cfm)
 
-Please check the attached [pdf report](https://github.com/VegaLaguna/TFM-Bridge-deterioration/blob/master/Model%20evaluation%20for%20Bridge%20deterioration%20using%20NBI.pdf) and the following Jupyter notebooks to read the study:
+Download the [data](https://github.com/VegaLaguna/TFM-Bridge-deterioration/tree/master/data) folder first in order to have all the zip files we need to start working.
+
+
+Please check the attached [pdf report](https://github.com/VegaLaguna/TFM-Bridge-deterioration/blob/master/Model%20evaluation%20for%20Bridge%20deterioration%20using%20NBI.pdf) and the Jupyter notebooks below to follow the study:
 
 
 * [Part 1 - Analysis of NBI dataset](https://github.com/VegaLaguna/TFM-Bridge-deterioration/blob/master/01-Analysis_ALL18.ipynb)
@@ -15,3 +18,6 @@ Please check the attached [pdf report](https://github.com/VegaLaguna/TFM-Bridge-
 * [Part 3 - Exploratory Data Analysis](https://github.com/VegaLaguna/TFM-Bridge-deterioration/blob/master/03-EDA_CLIM.ipynb)
 
 * [Part 4 - Model selection dataset](https://github.com/VegaLaguna/TFM-Bridge-deterioration/blob/master/04-Model_CLIM.ipynb)
+
+
+
